@@ -15,19 +15,16 @@ hxdm，过来康康啊!
 
 ## 截图
 ### 主页
-
 <img 
-  src="https://s1.ax1x.com/2020/06/18/NZIGZ9.gif" 
+  src="https://s1.ax1x.com/2020/06/18/NeEvee.gif" 
   alt="NZIGZ9.gif" 
   border="0"    height="500em"  width="260em"
-/>
-<img 
-src="https://s1.ax1x.com/2020/06/18/NZjQte.gif" 
+/><img 
+src="https://s1.ax1x.com/2020/06/18/NeE7J1.gif" 
 alt="NZjQte.gif" 
 border="0"    height="500em"  width="260em"
-/>
-<img 
-src="https://s1.ax1x.com/2020/06/18/NZxTw6.gif" 
+/><img 
+src="https://s1.ax1x.com/2020/06/18/NeEaM8.gif" 
 alt="NZjQte.gif" 
 border="0"    height="500em"  width="260em"
 />
@@ -42,7 +39,7 @@ border="0"    height="500em"  width="260em"
 ### 开眼日报
 
 <img 
-src="https://s1.ax1x.com/2020/06/18/NeCWrj.gif" 
+src="https://s1.ax1x.com/2020/06/18/NeAbDg.gif" 
 alt="NZjQte.gif" 
 border="0"    height="500em"  width="260em"
 />
