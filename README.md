@@ -15,18 +15,15 @@ hxdm，过来康康啊!
 
 ## 截图
 ### 主页
-
 <img 
   src="https://s1.ax1x.com/2020/06/18/NeEvee.gif" 
   alt="NZIGZ9.gif" 
   border="0"    height="500em"  width="260em"
-/>
-<img 
-src="https://s1.ax1x.com/2020/06/18/NeE7J1.gif" 
+/><img 
+src="https://s1.ax1x.com/2020/06/18/NemKfA.gif" 
 alt="NZjQte.gif" 
 border="0"    height="500em"  width="260em"
-/>
-<img 
+/><img 
 src="https://s1.ax1x.com/2020/06/18/NeEaM8.gif" 
 alt="NZjQte.gif" 
 border="0"    height="500em"  width="260em"
