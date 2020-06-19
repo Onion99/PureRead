@@ -6,8 +6,8 @@ hxdm，过来康康啊!
 
 - cached_network_image，图片缓存加载库
 - provider，对Widget进行状态管理
-- flutter_easyrefresh，非常美观的上拉刷新下拉加载更多动画库
-- photo_view，支持图片手势操作的库
+- flutter_easyrefresh，美观的上拉刷新下拉加载更多
+- photo_view，支持图片手势操作
 - flutter_swiper
 - dio
 - flutter_spinkit
